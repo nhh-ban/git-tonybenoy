@@ -1,0 +1,763 @@
+       name        |  cz  | error |       bibcode       |                  refs                   
+-------------------+------+-------+---------------------+-----------------------------------------
+ UGC12894          |  335 |    22 | 1992ApJS...81....5S | Schneider et al. 1992
+ WLM               | -122 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ And XVIII         | -332 |     3 | 2012ApJ...752...45T | Tollerud et al. 2012
+ ESO409-015        |  726 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ AGC748778         |  258 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ And XX            | -456 |     3 | 2012arXiv1211.2638W | Watkins et al. 2012
+ UGC00064          |  305 |    17 | 2003A&A...406..829B | Braun et al. 2003
+ ESO349-031        |  221 |     6 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC0024           |  550 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC0045           |  465 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC0055           |  129 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC0059           |  361 |     2 | 2000A&AS..141..469H | Huchtmeier et al. 2000
+ ESO410-005        |   36 |     2 | 2012HI............K | Koribalski 2012
+ And XIX           | -111 |     1 | 2012arXiv1211.2638W | Watkins et al. 2012
+ IC0010            | -346 |     6 | 1979A&A....75..170H | Huchtmeier 1979
+ And XXVI          | -261 |     4 | 2012arXiv1211.2638W | Watkins et al. 2012
+ Cetus             |  -87 |     2 | 2007MNRAS.375.1364L | Lewis et al. 2007
+ ESO294-010        |  107 |     1 | 2005AJ....130.2058B | Bouchard et al. 2005
+ UGC00288          |  187 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ And XXV           | -108 |     1 | 2012arXiv1211.2638W | Watkins et al. 2012
+ ESO473-024        |  530 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC0147           | -193 |     3 | 1991A&A...246..349B | Bender et al. 1991
+ And III           | -346 |     2 | 2010ApJ...711..671K | Kalirai et al. 2010
+ And XXX           | -141 |     6 | 2012arXiv1211.2638W | Watkins et al. 2012
+ And XVII          | -251 |     2 | 2012arXiv1211.2638W | Watkins et al. 2012
+ And XXVII         | -535 |     5 | 2012arXiv1211.2638W | Watkins et al. 2012
+ NGC0185           | -203 |     1 | 1997ApJ...476..127Y | Young et al. 1997
+ NGC0205           | -221 |     1 | 1997ApJ...476..127Y | Young et al. 1997
+ And IV            |  237 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ MESSIER032        | -202 |    10 | 2002A&A...384..371S | Simien et al. 2002
+ MESSIER031        | -296 |    15 | 1975MNRAS.170..503D | Dean et al. 1975
+ DDO226            |  359 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ And I             | -376 |     1 | 2010ApJ...711..671K | Kalirai et al. 2010
+ And XI            | -419 |     6 | 2010MNRAS.407.2411C | Collins et al. 2010
+ NGC0247           |  161 |    10 | 1990AJ....100..641C | Carignan et al. 1990
+ And XII           | -556 |       | 2007ApJ...662L..79C | Chapman et al. 2007
+ NGC0253           |  243 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ KDG002            |  224 |     3 | 2005AJ....130.2058B | Bouchard et al. 2005
+ DDO006            |  292 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO540-032        |  228 |     1 | 2005AJ....130.2058B | Bouchard et al. 2005
+ Bol520            | -312 |    17 | 2007A&A...471..127G | Galleti et al. 2007
+ And XIV           | -481 |     2 | 2010ApJ...711..671K | Kalirai et al. 2010
+ And XIII          | -195 |     8 | 2010MNRAS.407.2411C | Collins et al. 2010
+ SMC               |  158 |     4 | 1987A&A...171...33R | Richter et al. 1987
+ And IX            | -216 |     3 | 2007ApJ...662L..79C | Chapman et al. 2007
+ NGC0300           |  146 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ And XVI           | -385 |     6 | 2009MNRAS.400.1472L | Letarte et al. 2009
+ Sculptor          |  105 |     0 | 2006AJ....131.2913B | Bouchard et al. 2006
+ LGS 3             | -286 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ IC1613            | -232 |     2 | 1996ApJS..105..269H | Hoffman et al. 1996
+ And X             | -164 |     1 | 2010ApJ...711..671K | Kalirai et al. 2010
+ UGC00685          |  156 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KKH5              |   61 |     8 | 2001A&A...366..428K | Karachentsev et al. 2001
+ AM0106-382        |  645 |    10 | 1997AJ....114.1313C | Cote et al. 1997
+ NGC0404           |  -50 |    11 | 1976A&A....48..405B | Baars et al. 1976
+ And V             | -403 |     4 | 2000ApJ...540L...9E | Evans et al. 2000
+ And XV            | -323 |     1 | 2012ApJ...752...45T | Tollerud et al. 2012
+ And II            | -194 |     1 | 2010ApJ...711..671K | Kalirai et al. 2010
+ And XXIV          | -128 |     5 | 2012arXiv1211.2638W | Watkins et al. 2012
+ And XXII          | -127 |     3 | 2012ApJ...752...45T | Tollerud et al. 2012
+ UGC01056          |  595 |    16 | 2005ApJS..160..149S | Springob et al. 2005
+ And XXIII         | -243 |     1 | 2012arXiv1211.2638W | Watkins et al. 2012
+ UGC01104          |  688 |    17 | 2005ApJS..160..149S | Springob et al. 2005
+ MESSIER033        | -182 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ KKH6              |   60 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC0625           |  395 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC0628           |  657 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC01171          |  738 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ DDO013            |  631 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ AGC112521         |  274 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ KK13              |  357 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KDG010            |  789 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KK14              |  420 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO245-005        |  393 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ KK15              |  366 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ IC1727            |  336 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC0672           |  429 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC01281          |  157 |     2 | 1996ApJS..105..269H | Hoffman et al. 1996
+ Phoenix           |  -52 |     6 | 2001AJ....121.2572G | Gallart et al. 2001
+ KK16              |  207 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KK17              |  168 |     2 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC0784           |  193 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC1561           |  606 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ Cas1              |   35 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC0855           |  591 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ Segue 2           |  -39 |     2 | 2009MNRAS.397.1748B | Belokurov et al. 2009
+ NGC0891           |  526 |     7 | 1987MNRAS.224..953S | Staveley-Smith et al. 1987
+ KKH11             |  296 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ DDO019            |  577 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ d0226+3325        |  520 |       | 1998AJ....115..975P | Pisano et al. 1998
+ NGC0925           |  553 |     8 | 2005ApJS..160..149S | Springob et al. 2005
+ Halogas           |  528 |       | 2010HI............H | Heald 2010
+ KKH12             |   70 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ DDO022            |  570 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ DDO025            |  604 |    16 | 1990ApJS...72..245S | Schneider et al. 1990
+ DDO024            |  581 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ MB1               |  190 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ Maffei1           |   66 |     5 | 2003ApJ...587..672F | Fingerhut et al. 2003
+ ESO115-021        |  515 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ Fornax            |   29 |     1 | 2006AJ....131.2913B | Bouchard et al. 2006
+ Maffei2           |  -15 |     7 | 1973MNRAS.165..213L | Lewis et al. 1973
+ UGC02172          |  565 |    17 | 2003A&A...406..829B | Braun et al. 2003
+ AGC122226         |  472 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ Dw2               |   94 |     2 | 1996A&A...309..687B | Burton et al. 1996
+ MB3               |   59 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ ESO154-023        |  574 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ Dw1               |  112 |     2 | 2000A&AS..141..469H | Huchtmeier et al. 2000
+ ESO199-007        |  630 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC1156           |  373 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ LV J0300+2546     |  308 |     3 | 2010AJ....140.1093M | Minchin et al. 2010
+ KKH18             |  216 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ ESO300-014        |  955 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO300-016        |  710 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC1291           |  838 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC1313           |  470 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC1311           |  571 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC02684          |  350 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ KK27              |  533 |       | 2012HI............K | Koribalski 2012
+ UGC02716          |  381 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC02773          |  216 |     1 | 2000A&AS..141..469H | Huchtmeier et al. 2000
+ IC1959            |  640 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ PGC013294         |  744 |    42 | 20096dF...C...0000J | Jones et al. 2009
+ NGC1400           |  569 |    11 | 2003AJ....126.2268W | Wegner et al. 2003
+ KK35              |  -66 |     3 | 2003A&A...405..951M | Makarov et al. 2003
+ IC0342            |   29 |     0 | 2000AJ....119.1720C | Crosthwaite et al. 2000
+ UGC02905          |  292 |    16 | 2005ApJS..160..149S | Springob et al. 2005
+ UGCA086           |   72 |     5 | 2005ApJ...625..130S | Stil et al. 2005
+ IC2038            |  712 |    52 | 1991ApJS...75..935D | da Costa et al. 1991
+ NGC1533           |  785 |     8 | 2004AJ....128...16K | Koribalski et al. 2004
+ ESO483-013        |  898 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ CamA              |  -54 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC1592           |  945 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC1569           |  -86 |     3 | 2008AJ....136.2563W | Walter et al. 2008
+ UGCA092           |  -95 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC1560           |  -36 |     1 | 1992A&A...256...19B | Broeils 1992
+ NGC1637           |  713 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ CamB              |   78 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC1705           |  628 |     9 | 1992AJ....103...60M | Meurer et al. 1992
+ HIPASS J0457-42   |  657 |     5 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC1744           |  741 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ ESO486-021        |  831 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC1800           |  814 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGCA105           |  113 |    22 | 2005ApJS..160..149S | Springob et al. 2005
+ LMC               |  278 |     2 | 1992ApJS...83...29S | Strauss et al. 1992
+ UGC03303          |  519 |    22 | 1991A&AS...87..425R | Richter et al. 1991
+ ESO553-046        |  541 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KK49              |  455 |     2 | 2000A&AS..141..469H | Huchtmeier et al. 2000
+ Orion             |  368 |     1 | 2010AJ....139.2170C | Cannon et al. 2010
+ A0554+07          |  428 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KKH34             |  106 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO364-029        |  787 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ HIPASS J0607-34   |  765 |     3 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ NGC2188           |  745 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO121-020        |  587 |     2 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ LV J0616-5745     |  554 |     4 | 2006AJ....131.2056W | Warren et al. 2006
+ UGCA127           |  732 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ WHI B0619-07      |  759 |     1 | 2007AJ....134.1849W | Warren et al. 2007
+ ESO489-056        |  492 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ HIPASS J0630+08   |  367 |     1 | 2005AJ....129..220D | Donley et al. 2005
+ UGC03475          |  487 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ UGC03476          |  469 |    22 | 1992ApJS...81....5S | Schneider et al. 1992
+ ESO490-017        |  505 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ CGMW1-260         |  746 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC03501          |  451 |     0 | 1979ApJ...231..327T | Thuan et al. 1979
+ KK55              |  824 |     2 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ Carina            |  224 |     3 | 2006AJ....131.2913B | Bouchard et al. 2006
+ IC2171            |  789 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC2283           |  841 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ KKSG9             |  693 |     6 | 2004AJ....128...16K | Koribalski et al. 2004
+ KKH37             |   11 |     7 | 2003A&A...405..951M | Makarov et al. 2003
+ KKH38             |  451 |     8 | 2001A&A...366..428K | Karachentsev et al. 2001
+ UGC03600          |  398 |     0 | 1979ApJ...231..327T | Thuan et al. 1979
+ HIZSS003          |  298 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ FG202             |  564 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ HIPASS J0705-20   |  766 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ ESO558-011        |  731 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC03698          |  421 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC2337           |  433 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ UGC03755          |  311 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC03817          |  437 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ HIZSS008          |  800 |     8 | 2004AJ....128...16K | Koribalski et al. 2004
+ DDO043            |  353 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC2366           |   96 |     0 | 1981ApJ...247..823T | Thuan et al. 1981
+ HIZSS012          |  779 |    10 | 2004AJ....128...16K | Koribalski et al. 2004
+ ESO059-001        |  530 |     3 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ DDO044            |  213 |    25 | 2011MNRAS.415L..31K | Karachentsev et al. 2011
+ AGC174585         |  356 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ HIZSS014          |  786 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC2403           |  125 |    17 | 1986A&AS...66..505W | Wevers et al. 1986
+ LV J0737+4724     |  404 |    67 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ DDO046            |  364 |     5 | 2005ApJS..160..149S | Springob et al. 2005
+ DDO047            |  270 |     2 | 1996ApJS..105..269H | Hoffman et al. 1996
+ KK65              |  281 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ HIZSS021          |  494 |    10 | 2004AJ....128...16K | Koribalski et al. 2004
+ KKH40             |  445 |     8 | 2001A&A...366..428K | Karachentsev et al. 2001
+ CGCG 262-028      |  454 |    84 | 1999PASP..111..438F | Falco et al. 1999
+ AGC174605         |  351 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC04115          |  343 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ HIPASS J0801-21   |  730 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC2500           |  514 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ LV J0812+4836     |  521 |     1 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ NGC2537           |  449 |     0 | 1981ApJ...247..823T | Thuan et al. 1981
+ IC2233            |  557 |     8 | 2005ApJS..160..149S | Springob et al. 2005
+ NGC2541           |  559 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ HolmII            |  157 |     0 | 1981ApJ...247..823T | Thuan et al. 1981
+ NGC2552           |  524 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ ESO006-001        |  738 |    95 | 1991ApJS...75..241D | Dressler 1991
+ ESO495-008        |  789 |    10 | 1998A&AS..130..333T | Theureau et al. 1998
+ KDG052            |  116 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KUG 0821+321      |  642 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ CGMW2-3473        |  837 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ DDO052            |  396 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ DDO053            |   19 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO495-021        |  868 |    12 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC04483          |  156 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ ESO496-010        |  814 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ AGC182595         |  398 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UMa II            | -116 |     2 | 2007ApJ...670..313S | Simon et al. 2007
+ NGC2683           |  411 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ KK69              |  462 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC04704          |  599 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ LSBC D564-08      |  483 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ ESO497-004        |  806 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ HIPASS J0905-36   |  886 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC04787          |  553 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ KKH46             |  598 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ LSBC D634-03      |  335 |    10 | 2011AJ....142..170H | Haynes et al. 2011
+ DDO056            |  724 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ NGC2784           |  687 |    80 | 2005PASA...22..277J | Jones et al. 2005
+ UGCA153           |  766 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ LV J0913+1937     |  445 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ AGC198507         |  502 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC04879          |  -25 |     4 | 2011A&A...527A..58B | Bellazzini et al. 2011
+ HIPASS J0916-23b  |  837 |       | 2008AstL...34..832K | Karachentsev et al. 2008
+ NGC2835           |  885 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC2787           |  700 |     0 | 1982A&A...110..121H | Huchtmeier 1982
+ LSBC D565-06      |  498 |     2 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC04932          |  549 |    22 | 2005ApJS..160..149S | Springob et al. 2005
+ DDO062            |  846 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ AGC198508         |  519 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ ESO565-003        |  829 |     3 | 2001A&A...377..801H | Huchtmeier et al. 2001
+ MCG +09-16-010    |  484 |     4 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ UGC04998          |  632 |    13 | 1998A&AS..127..397v | van Driel et al. 1998
+ LV J0926+3343     |  540 |    30 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ NGC2915           |  467 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC05047          |  502 |    13 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ KDG056            |  561 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC2903-HI-1      |  582 |     4 | 2009ApJ...692.1447I | Irwin et al. 2009
+ NGC2903           |  556 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ ESO373-007        |  862 |     6 | 1990A&AS...86..473F | Fouque et al. 1990
+ UGC05086          |  491 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ CGCG 035-007      |  552 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ LeoT              |   39 |     2 | 2008MNRAS.384..535R | Ryan-Weber et al. 2008
+ LV J0935-1348     |  796 |    45 | 20096dF...C...0000J | Jones et al. 2009
+ LV J0939-2507     |  741 |    45 | 20096dF...C...0000J | Jones et al. 2009
+ KISSB023          |  544 |   314 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ KUG 0937+480      |  546 |     3 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ HolmI             |  139 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC05186          |  546 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ LV J0944-2254     |  729 |    45 | 20096dF...C...0000J | Jones et al. 2009
+ IC0559            |  541 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ F8D1              | -125 |   130 | 2009AJ....137.3009C | Chiboucas et al. 2009
+ UGC05209          |  535 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ RKK1610           |  882 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC2976           |    6 |     4 | 1981MNRAS.195..327A | Appleton et al. 1981
+ AGC191803         |  535 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KK78              |  539 |     4 | 2003A&A...405..951M | Makarov et al. 2003
+ DDO064            |  521 |     2 | 1996ApJS..105..269H | Hoffman et al. 1996
+ UGC05288          |  557 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC3037           |  887 |     5 | 2004AJ....128...16K | Koribalski et al. 2004
+ BK3N              |  -40 |       | 1993A&A...275...39T | Tikhonov et al. 1993
+ LV J0954+3620     |  503 |    55 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ KKSG15            |  791 |     3 | 2001A&A...377..801H | Huchtmeier et al. 2001
+ MESSIER081        |  -38 |     0 | 1978ApJ...223..391D | Dickel et al. 1978
+ MESSIER082        |  183 |     4 | 1981MNRAS.195..327A | Appleton et al. 1981
+ LV J0956-0929     |  627 |    45 | 20096dF...C...0000J | Jones et al. 2009
+ DDO068            |  503 |     8 | 1985ApJS...59..161L | Lewis et al. 1985
+ KDG061            |  221 |     3 | 2010MNRAS.406.1152M | Makarova et al. 2010
+ ClumpI            | -165 |    18 | 2011MNRAS.415L..31K | Karachentsev et al. 2011
+ A0952+69          |   99 |       | 2003MNRAS.342..738L | Lang et al. 2003
+ HolmIX            |   50 |     4 | 1981MNRAS.195..327A | Appleton et al. 1981
+ [CKT2009]d0958+66 |   90 |    50 | 2009AJ....137.3009C | Chiboucas et al. 2009
+ LeoA              |   24 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ [CKT2009]d0959+68 | -186 |    44 | 2011MNRAS.415L..31K | Karachentsev et al. 2011
+ SexB              |  300 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ LV J1000+5022     |  538 |    11 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ LV J1000+3032     |  501 |    37 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ ClumpIII          | -121 |    20 | 2011MNRAS.415L..31K | Karachentsev et al. 2011
+ MCG -01-26-009    |  748 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KKSG17            |  446 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGCA193           |  663 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC3109           |  403 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC3077           |   19 |     4 | 1981MNRAS.195..327A | Appleton et al. 1981
+ GARLAND           |   43 |    17 | 1985MNRAS.217..731K | Karachentsev et al. 1985
+ ESO499-038        |  885 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC3104           |  603 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ Antlia            |  362 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC05427          |  498 |    16 | 1990ApJS...72..245S | Schneider et al. 1990
+ KDG063            | -129 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC3115           |  681 |     6 | 2003AJ....126.2268W | Wegner et al. 2003
+ UGC05423          |  348 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KDG065            |  721 |    53 | 2008ApJ...674..909P | Puzia et al. 2008
+ KKSG18            |  698 |    42 | 1998AJ....116....1D | da Costa et al. 1998
+ KDG064            |  -15 |    13 | 2010MNRAS.406.1152M | Makarova et al. 2010
+ Segue 1           |  206 |     1 | 2009ApJ...692.1464G | Geha et al. 2009
+ UGC05456          |  527 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KKH58             |  587 |     8 | 2001A&A...366..428K | Karachentsev et al. 2001
+ IKN               | -140 |    64 | 2009AJ....137.3009C | Chiboucas et al. 2009
+ LeoI              |  283 |    10 | 2007MNRAS.378..318B | Bosler et al. 2007
+ SexA              |  324 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC05497          |  150 |    50 | 2009AJ....137.3009C | Chiboucas et al. 2009
+ SexDSph           |  227 |     3 | 2006AJ....131.2913B | Bouchard et al. 2006
+ KUG 1013+414      |  518 |     1 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ NGC3184           |  592 |    22 | 1985A&A...143..216H | Huchtmeier et al. 1985
+ HIJASS J1021+6842 |   46 |       | 2001ApJ...560L.127B | Boyce et al. 2001
+ HS117             |  -37 |       | 2004AJ....127.2031K | Karachentsev et al. 2004
+ LV J1021+0054     |  701 |     3 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ LeoP              |  262 |       | 2013AAS...22135207B | Bernstein-Cooper et al. 2013
+ AGC731448         |  540 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KKSG19            |  628 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC3239           |  754 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ DDO078            |   55 |    10 | 2001A&A...380..435S | Sharina et al. 2001
+ UGC05672          |  531 |    16 | 1986AJ.....91..705B | Bicay et al. 1986
+ IC2574            |   43 |     4 | 1981MNRAS.195..327A | Appleton et al. 1981
+ LV J1028+4240     |  547 |     5 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ [CKT2009]d1028+70 | -114 |    50 | 2009AJ....137.3009C | Chiboucas et al. 2009
+ AGC749315         |  645 |     6 | 2011AJ....142..170H | Haynes et al. 2011
+ DDO082            |   56 |     3 | 2003A&A...405..951M | Makarov et al. 2003
+ LV J1030+0607     |  640 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC205156         |  915 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC731457         |  454 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC3274           |  541 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UMa I             |  -55 |     1 | 2007ApJ...670..313S | Simon et al. 2007
+ AGC202248         | 1177 |     6 | 2011AJ....142..170H | Haynes et al. 2011
+ ESO501-023        | 1042 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ LeG03             | 1158 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ KUG 1033+366B     |  620 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ NGC3299           |  604 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ DDO083            |  582 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ AGC205165         |  724 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC200499         | 1175 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC208397         |  763 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC05797          |  710 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ LeG05             |  780 |     3 | 2009AJ....138..338S | Stierwalt et al. 2009
+ LeG06             | 1007 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC208399         |  747 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC05812          | 1008 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ FS04              |  772 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ DDO084            |  630 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ AGC205268         | 1145 |     5 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ ESO376-016        |  670 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC3344           |  588 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC3351           |  777 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC205445         |  633 |    31 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ LeG13             |  871 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ LeG17             | 1030 |     2 | 2009AJ....138..338S | Stierwalt et al. 2009
+ NGC3368           |  893 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ LeG18             |  636 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KK94              |  832 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ LeG21             |  843 |     1 | 2009AJ....138..338S | Stierwalt et al. 2009
+ DDO088            |  573 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ ESO318-013        |  718 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC3377           |  678 |     6 | 2000MNRAS.313..469S | Smith et al. 2000
+ NGC3379           |  923 |     5 | 2003AJ....126.2268W | Wegner et al. 2003
+ NGC3384           |  704 |       | 2000MNRAS.313..469S | Smith et al. 2000
+ UGC05923          |  709 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ Willman1          |  -12 |     2 | 2007MNRAS.380..281M | Martin et al. 2007
+ DDO087            |  340 |     6 | 1998A&AS..127..269H | Huchtmeier et al. 1998
+ UGC05944          | 1073 |    27 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ NGC3412           |  846 |     1 | 2000MNRAS.313..469S | Smith et al. 2000
+ NGC3413           |  634 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ LeG26             |  630 |    60 | 2011LV.Cz.........K | Current work
+ AGC205540         |  832 |    53 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ AGC205544         |  828 |    38 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ LV J1052+3628     |  476 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ UGC05983          |  765 |    47 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ AGC202456         |  824 |    25 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ NGC3432           |  611 |     6 | 1981ApJS...47..139F | Fisher et al. 1981
+ LV J1052+3639     |  511 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ KDG073            |  116 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC06014          | 1133 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ LSBC D640-12      |  847 |     2 | 2009AJ....138..338S | Stierwalt et al. 2009
+ LSBC D640-13      |  989 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ HS1053+3624       |  572 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ ESO215-009        |  598 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ VV747             |  619 |     2 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ CGCG 095-078      |  650 |     1 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ AGC205278         |  686 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC3489           |  695 |     6 | 2011AJ....142..170H | Haynes et al. 2011
+ CGCG 066-109      |  777 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KKSG20            |  835 |    13 | 2004MNRAS.352..478R | Roberts et al. 2004
+ MRK0036           |  646 |    16 | 2005ApJS..160..149S | Springob et al. 2005
+ UGC06145          |  753 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC3521           |  797 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC3556           |  696 |    22 | 1985A&A...143..216H | Huchtmeier et al. 1985
+ DDO092            |  928 |     6 | 1981ApJS...47..139F | Fisher et al. 1981
+ LeoII             |   86 |     8 | 2007MNRAS.378..318B | Bosler et al. 2007
+ NGC3593           |  631 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC202256         |  630 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ IC2684            |  588 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC3621           |  730 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ AGC215354         |  790 |     6 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ NGC3627           |  716 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ AGC213436         |  626 |    26 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ IC2787            |  708 |    27 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ IC2791            |  666 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC06456          |  -94 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KDG078            |  575 |     2 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ LeoV              |  173 |     3 | 2008ApJ...686L..83B | Belokurov et al. 2008
+ HIPASS J1131-31   |  715 |       | 2012HI............K | Koribalski 2012
+ LeoIV             |  132 |     1 | 2007ApJ...670..313S | Simon et al. 2007
+ HIPASS J1133-32   |  709 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC06541          |  249 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC3738           |  225 |     8 | 2002A&A...389...29S | Stil et al. 2002
+ NGC3741           |  229 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO320-014        |  654 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC06757          |   82 |     4 | 2011ApJS..193...29A | Aihara et al. 2011
+ KK109             |  211 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ DDO097            |  522 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ KKH73             |  594 |     6 | 2007AstL...33..512K | Karachentsev et al. 2007
+ DDO099            |  251 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO379-007        |  644 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC06881          |  601 |     7 | 1992MNRAS.258..334S | Staveley-Smith et al. 1992
+ MCG +05-28-046    |  590 |     1 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ KDG082            |  590 |    16 | 1990ApJS...72..245S | Schneider et al. 1990
+ NGC3990           |  696 |    40 | 1991RC3.9.C...0000d | Vaucouleurs G. 1991
+ LV J1157+5638     |  416 |     1 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ LV J1158+1535     |  565 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ BTS76             |  455 |    86 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ ESO572-034        | 1114 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KUG 1157+315      |  617 |    20 | 1993ApJ...409..110S | Scodeggio et al. 1993
+ LV J1203+4739     |  492 |    13 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ LV J1203+3257     |  570 |     8 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ NGC4068           |  210 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ NGC4080           |  565 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ ESO379-024        |  632 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ IC2992            |  599 |    39 | 1987A&AS...69..333T | Talavera et al. 1987
+ KUG 1202+286      |  529 |    33 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ LV J1205+2813     |  534 |    14 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ MAPS1206+31       |  568 |    27 | 2004ApJ...607..202M | Mahdavi et al. 2004
+ LV J1207+3133     |  562 |     4 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ UGC07131          |  253 |    16 | 1990ApJS...72..245S | Schneider et al. 1990
+ NGC4136           |  608 |    10 | 1999A&AS..135..255K | Kraan-Korteweg et al. 1999
+ MCG +06-27-017    |  339 |    40 | 1995ApJS...99..391H | Huchra et al. 1995
+ NGC4144           |  265 |     8 | 2005ApJS..160..149S | Springob et al. 2005
+ IC3023            |  817 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC4150           |  226 |    22 | 1990ApJS...72..433H | Huchra et al. 1990
+ NGC4163           |  162 |     5 | 2000AJ....120.2975S | Simpson et al. 2000
+ KK127             |  131 |     6 | 2000A&AS..141..469H | Huchtmeier et al. 2000
+ NGC4190           |  235 |    22 | 1986A&AS...63..323H | Huchtmeier et al. 1986
+ LV J1213+2957     |  225 |     1 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ ESO321-014        |  609 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC07242          |   66 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ VCC0114           | 2067 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC7257           |  956 |     2 | 1996ApJS..105..269H | Hoffman et al. 1996
+ NGC4204           |  861 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ UGC07267          |  473 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ UGC07271          |  546 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ NGC4214           |  291 |    22 | 1985A&A...143..216H | Huchtmeier et al. 1985
+ MCG +09-20-131    |  159 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ VCC0169           | 2219 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ IC3077            | 1406 |     6 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC07298          |  174 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC4236           |   -3 |     0 | 1978ApJ...223..391D | Dickel et al. 1978
+ UGC07320          |  541 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4244           |  247 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4242           |  517 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ LV J1217+3231     |  447 |    10 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ UGC7321           |  403 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ NGC4248           |  484 |    27 | 1977A&A....61..297v | van Albada 1977
+ LV J1218+4655     |  420 |    34 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ AGC229053         |  425 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ IC3104            |  429 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC4258           |  447 |     7 | 1987MNRAS.224..953S | Staveley-Smith et al. 1987
+ KDG101            |  132 |    24 | 2011SDSS..........0 | SDSS 2011
+ KK133             |  561 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ IC 779            |  213 |    26 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ VCC0381           |  480 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC4288           |  533 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ CVnHI             |  420 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ KUG 1218+387      |  570 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO120            |  463 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ KDG104            | 1861 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ KDG105            |  567 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC7427           |  726 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4308           |  642 |    20 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ GR34              | 1298 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ VCC0565           |  871 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ KK141             |  573 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ IC3247            |  569 |    16 | 2005ApJS..160..149S | Springob et al. 2005
+ IC3308            |  316 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KK144             |  480 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC07512          | 1506 |     2 | 1996ApJS..105..269H | Hoffman et al. 1996
+ AGC749236         |  273 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ VCC0841           |  499 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC4395           |  313 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO123            |  722 |     1 | 1999PASP..111..438F | Falco et al. 1999
+ UGCA281           |  279 |     0 | 1981ApJ...247..823T | Thuan et al. 1981
+ IC3341            |  372 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ SBS 1224+533      |  300 |     3 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ ComaI             |   98 |     1 | 2007ApJ...670..313S | Simon et al. 2007
+ DDO126            |  217 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO125            |  206 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC07584          |  603 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KKH80             |  602 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC4449           |  201 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO127            |  275 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ UGC07596          |  565 |     6 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC07605          |  310 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC4455           |  644 |    16 | 2005ApJS..160..149S | Springob et al. 2005
+ DDO129            |  538 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4460           |  499 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ KK149             |  407 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ UGC07639          |  385 |     7 | 1982MNRAS.201.1073A | Appleton et al. 1982
+ UGC07636          |  469 |    16 | 1990ApJS...72..245S | Schneider et al. 1990
+ KK151             |  436 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC4485           |  480 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4490           |  586 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ CGCG 014-054      | 1105 |     5 | 1992A&AS...96..435G | Garcia et al. 1992
+ MAPS1231+42       |  563 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO131            |  643 |    10 | 1999A&AS..135..255K | Kraan-Korteweg et al. 1999
+ UGC7678           |  679 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ UGC07690          |  536 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4517           | 1134 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC07699          |  495 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO133            |  330 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4509           |  934 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ BTS142            |  719 |     4 | 2009A&A...506..677H | Huchtmeier et al. 2009
+ KDG155            |  750 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KK152             |  838 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC7719           |  679 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4534           |  802 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ UGC7751           |  605 |     6 | 1992ApJS...81....5S | Schneider et al. 1992
+ LV J1235-1104     | 1110 |    10 | 2011LV.HIPASS.....K | Current work
+ NGC4559           |  814 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC07774          |  528 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ VCC1675           | 1790 |     6 | 2011AJ....142..170H | Haynes et al. 2011
+ IC3583            | 1120 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ MAPS1236+33       |  526 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ IC3591            | 1632 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KKSG29            |  756 |     2 | 2009A&A...506..677H | Huchtmeier et al. 2009
+ Arp211            |  458 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ VCC1713           | 1638 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KKSG30            | 1105 |     2 | 2001A&A...377..801H | Huchtmeier et al. 2001
+ VCC1725           | 1076 |     4 | 2011AJ....142..170H | Haynes et al. 2011
+ UGCA292           |  308 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGC07827          |  553 |     2 | 1991ApJS...77..331H | Haynes et al. 1991
+ KDG177            | 1005 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC4594           | 1090 |    33 | 1977ApJ...214..383F | Faber et al. 1977
+ NGC4605           |  151 |    17 | 1994A&AS..107..129B | Broeils et al. 1994
+ AGC749241         |  451 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ BTS146            |  446 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ SUCD1             | 1305 |     9 | 2009MNRAS.394L..97H | Hau et al. 2009
+ VCC1822           | 1008 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC4597           | 1039 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC4600           |  852 |    34 | 2003AJ....126.2268W | Wegner et al. 2003
+ NGC4618           |  536 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ LV J1241+3251     |  693 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4625           |  606 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ NGC4627           |  542 |    16 | 2002A&A...384..371S | Simien et al. 2002
+ NGC4631           |  583 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ IC3687            |  350 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ KDG192            |  443 |     7 | 1992MNRAS.258..334S | Staveley-Smith et al. 1992
+ LV J1243+4127     |  402 |     2 | 2009A&A...506..677H | Huchtmeier et al. 2009
+ KK160             |  293 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC4656           |  638 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ DDO143            |  607 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ UGCA294           |  955 |     0 | 1981ApJ...247..823T | Thuan et al. 1981
+ ESO381-018        |  624 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ IC3718            |  849 |     0 | 2011AJ....142..170H | Haynes et al. 2011
+ ESO381-020        |  589 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ VCC2033           | 1485 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ VCC2037           | 1142 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UGCA298           |  844 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC07950          |  508 |    22 | 1986A&AS...63..323H | Huchtmeier et al. 1986
+ DDO147            |  331 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ FGC1497           |  519 |     7 | 2000A&AS..143..421M | Matthews et al. 2000
+ HIPASS J1247-77   |  413 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC4707           |  468 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ DDO148            | 1337 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC4700           | 1411 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ MAPS1249+44       |  513 |    17 | 2009MNRAS.400..743K | Kova&#269; et al. 2009
+ UGC07983          |  694 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC07990          |  512 |    16 | 1990ApJS...72..245S | Schneider et al. 1990
+ NGC4736           |  308 |     8 | 2005ApJS..160..149S | Springob et al. 2005
+ BTS157            |  572 |     4 | 2009A&A...506..677H | Huchtmeier et al. 2009
+ KK167             | 1248 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ IC3840            |  557 |       | 2000ApJS..131...47E | Eder et al. 2000
+ NGC4765           |  722 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ KKSG38            | 1071 |     4 | 2001A&A...377..801H | Huchtmeier et al. 2001
+ DDO153            |  821 |     1 | 2007AJ....134.1849W | Warren et al. 2007
+ DDO154            |  374 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ UGC08030          |  628 |     1 | 2011AJ....142..170H | Haynes et al. 2011
+ ESO443-009        |  645 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ KDG215            |  419 |     9 | 1997ApJS..111..233S | Schombert et al. 1997
+ UGC08061          |  563 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC4826           |  409 |     8 | 2005ApJS..160..149S | Springob et al. 2005
+ CVnII             | -129 |     1 | 2007ApJ...670..313S | Simon et al. 2007
+ MCG-02-33-075     | 1267 |     9 | 2006HIPAS.C...0000: | The Multibeam Survey Working Group 2006
+ GR8               |  217 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ HIPASS J1258-04   | 1318 |     6 | 2006HIPAS.C...0000: | The Multibeam Survey Working Group 2006
+ NGC4861           |  842 |    10 | 1999A&AS..135..255K | Kraan-Korteweg et al. 1999
+ KK176             |  825 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ UGCA319           |  755 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ DDO161            |  744 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO269-037        |  744 |     2 | 2006PhD...........B | Bouchard 2006
+ KK182             |  617 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC4945           |  563 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ IC4182            |  321 |     2 | 1988ApJS...67....1T | Tifft et al. 1988
+ DDO165            |   31 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ MCG -03-34-002    |  959 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC08215          |  224 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ UGC08245          |  -58 |    55 | 2011MNRAS.415L..31K | Karachentsev et al. 2011
+ MCG -04-31-038    |  684 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO269-058        |  400 |    18 | 1999ApJ...524..612B | Banks et al. 1999
+ NGC5023           |  407 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ CGCG 217-018      |  555 |    33 | 2006SDSS5.C...0000: | Sloan Digital Sky Survey Team 2006
+ KKH82             |  529 |    40 | 2011SDSS..........0 | SDSS 2011
+ ESO269-066        |  784 |    31 | 2000AJ....119..166J | Jerjen et al. 2000
+ NGC5011C          |  647 |    96 | 2007AJ....133.1756S | Saviane et al. 2007
+ DDO167            |  150 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ DDO168            |  191 |     8 | 2002A&A...389...29S | Stil et al. 2002
+ DDO169NW          |  242 |     2 | 2000AJ....120.2975S | Simpson et al. 2000
+ DDO169            |  262 |     5 | 2000AJ....120.2975S | Simpson et al. 2000
+ NGC5055           |  500 |     8 | 2005ApJS..160..149S | Springob et al. 2005
+ CGCG 189-050      |  324 |     6 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ NGC5068           |  668 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ AGC732602         |  925 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ KK195             |  572 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KK196             |  741 |    15 | 2000AJ....119..593J | Jerjen et al. 2000
+ NGC5102           |  464 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KK200             |  494 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC5128           |  556 |    10 | 2004AJ....128...16K | Koribalski et al. 2004
+ IC4247            |  420 |    18 | 1999ApJ...524..612B | Banks et al. 1999
+ ESO324-024        |  514 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ CVnI              |   31 |     1 | 2007ApJ...670..313S | Simon et al. 2007
+ LV J1328+4937     |  395 |     9 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ PGC170257         |  650 |    29 | 1998AJ....116....1D | da Costa et al. 1998
+ NGC5204           |  201 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ NGC5194           |  446 |     7 | 1986MNRAS.221..393A | Appleton et al. 1986
+ NGC5195           |  455 |    11 | 2005ApJS..160..149S | Springob et al. 2005
+ UGC08508          |   56 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ AGC238890         |  360 |     3 | 2011AJ....142..170H | Haynes et al. 2011
+ NGC5206           |  583 |     6 | 1993AJ....105.1411P | Peterson et al. 1993
+ NGC5229           |  359 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ NGC5238           |  229 |     0 | 1981ApJ...247..823T | Thuan et al. 1981
+ ESO270-017        |  827 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGCA365           |  577 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ MCG +08-25-028    |  480 |     3 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ NGC5236           |  519 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ HIDEEP J1337-33   |  591 |    18 | 2008AstL...34..832K | Karachentsev et al. 2008
+ ESO444-084        |  587 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ HIPASS J1337-39   |  492 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC5237           |  361 |     4 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC08638          |  276 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ DDO181            |  214 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC5253           |  407 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ IC4316            |  576 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC5264           |  478 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ KK211             |  600 |    31 | 2008ApJ...674..909P | Puzia et al. 2008
+ LV J1342+4840     |  438 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ DDO182            |  663 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ ESO325-011        |  544 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ ESO174-001        |  686 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ HIPASS J1348-37   |  582 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KK221             |  507 |    13 | 2008ApJ...674..909P | Puzia et al. 2008
+ ESO383-087        |  326 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ DDO183            |  188 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ HIPASS J1351-47   |  529 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KKH86             |  287 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ HolmIV            |  140 |    17 | 1994A&AS..107..129B | Broeils et al. 1994
+ UGC08833          |  221 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ GBT 1355+5439     |  210 |     2 | 2012SDSS9.C...0000: | SDSS DR9 2012
+ ESO384-016        |  561 |    32 | 2000AJ....119..166J | Jerjen et al. 2000
+ BootesIII         |  198 |     4 | 2009ApJ...702L...9C | Carlin et al. 2009
+ UGC08882          |  348 |    24 | 2007SDSS6.C...0000: | Sloan Digital Sky Survey Team 2007
+ BootesII          | -117 |     5 | 2009ApJ...690..453K | Koch et al. 2009
+ BootesI           |   99 |     2 | 2007MNRAS.380..281M | Martin et al. 2007
+ NGC5398           | 1220 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ MESSIER101        |  240 |    11 | 1979A&A....74..138H | Huchtmeier et al. 1979
+ NGC5408           |  502 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC5474           |  288 |     0 | 1978ApJ...223..391D | Dickel et al. 1978
+ NGC5477           |  312 |     4 | 1980MNRAS.191..253D | Davies et al. 1980
+ KK230             |   63 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ CIRCINUS          |  434 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ KKH87             |  320 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ DDO187            |  160 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ NGC5585           |  303 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ DDO190            |  150 |     2 | 2005ApJS..160..149S | Springob et al. 2005
+ PGC051659         |  391 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO222-010        |  620 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ DDO194            |  218 |    22 | 1991A&AS...87..425R | Richter et al. 1991
+ MRK0475           |  583 |    21 | 1999A&AS..139....1T | Thuan et al. 1999
+ HIPASS J1441-62   |  672 |     8 | 2004AJ....128...16K | Koribalski et al. 2004
+ ESO272-025        |  631 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO273-014        | 1050 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO223-009        |  588 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC09660          |  608 |    22 | 2005ApJS..160..149S | Springob et al. 2005
+ UMin              | -255 |     7 | 1984PASP...96..128S | Stetson 1984
+ ESO274-001        |  524 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ HIPASS J1526-51   |  605 |     7 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC09992          |  423 |     0 | 1979ApJ...231..327T | Thuan et al. 1979
+ KKR25             |  -79 |     8 | 2011LV.Cz.........K | Current work
+ ESO137-018        |  603 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ Hercules          |   45 |     1 | 2009A&A...506.1147A | Ad&eacute;n et al. 2009
+ KDG235            |  443 |     7 | 1992MNRAS.258..334S | Staveley-Smith et al. 1992
+ Draco             | -296 |     5 | 1984PASP...96..128S | Stetson 1984
+ Milky Way         |    0 |       | 2004AJ....127.2031K | Karachentsev et al. 2004
+ IC4662            |  302 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ NGC6503           |   51 |     6 | 1981ApJS...47..139F | Fisher et al. 1981
+ IC4710            |  739 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC6684           |  866 |       | 1997A&AS..124...61B | Bettoni et al. 1997
+ Sag dSph          |  140 |     2 | 1995MNRAS.277..781I | Ibata et al. 1995
+ ESO104-022        |  797 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC11411          |   69 |    38 | 1999PASP..111..438F | Falco et al. 1999
+ NGC6744           |  841 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ ESO104-044        |  750 |       | 2011LV.HIPASS.....K | Current work
+ NGC6789           | -140 |     9 | 1998A&A...331..891K | Karachentsev et al. 1998
+ Sag dIr           |  -79 |     1 | 2004AJ....128...16K | Koribalski et al. 2004
+ IC4870            |  877 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ NGC6822           |  -57 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ LV J1952+1428     |  279 |     1 | 2011ApJ...739L..26M | McIntyre et al. 2011
+ KK246             |  435 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ IC4951            |  814 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ UGC11583          |  126 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KK251             |  130 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KK252             |  138 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ NGC6946           |   51 |     5 | 2000A&A...362..544K | Karachentsev et al. 2000
+ KKR55             |   32 |     1 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ DDO210            | -140 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ KKR56             |  -43 |     8 | 2003A&A...405..951M | Makarov et al. 2003
+ Cepheus1          |   33 |     7 | 2003A&A...405..951M | Makarov et al. 2003
+ IC5052            |  584 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ KKR59             |   -3 |     4 | 2003A&A...405..951M | Makarov et al. 2003
+ KKR60             |  -14 |     7 | 2003A&A...405..951M | Makarov et al. 2003
+ NGC7090           |  850 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ IC5152            |  122 |     1 | 2012MNRAS.420.2924K | Kirby et al. 2012
+ IC5201            |  915 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ESO238-005        |  706 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ AM2220-460        |  843 |       | 2011LV.HIPASS.....K | Current work
+ Tucana            |  194 |     4 | 2009A&A...499..121F | Fraternali et al. 2009
+ NGC7462           | 1057 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ ApplesI           |  674 |    30 | 2005AJ....129..148P | Pasquali et al. 2005
+ NGC7640           |  369 |     4 | 2005ApJS..160..149S | Springob et al. 2005
+ UGC12588          |  425 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ UGCA438           |   62 |     8 | 1982MNRAS.200..325L | Longmore et al. 1982
+ Cas dSph          | -307 |     2 | 2000ApJ...540L...9E | Evans et al. 2000
+ ESO347-017        |  691 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ Pegasus           | -184 |     0 | 2003A&A...401..483H | Huchtmeier et al. 2003
+ DDO217            |  424 |    22 | 1981ApJS...47..139F | Fisher et al. 1981
+ IC5332            |  701 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ LV J2335-3713     |  615 |     2 | 2011ApJS..197...28P | Pisano et al. 2011
+ NGC7713           |  692 |     3 | 2004AJ....128...16K | Koribalski et al. 2004
+ UGC12713          |  295 |     2 | 2011AJ....142..170H | Haynes et al. 2011
+ UGCA442           |  267 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
+ KKH98             | -132 |     2 | 2008MNRAS.386.1667B | Begum et al. 2008
+ ESO348-009        |  647 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ Peg dSph          | -345 |     3 | 2011MNRAS.417.1170C | Collins et al. 2011
+ ESO149-003        |  574 |    18 | 2005MNRAS.361...34D | Doyle et al. 2005
+ And XXI           | -361 |     6 | 2012ApJ...752...45T | Tollerud et al. 2012
+ NGC7793           |  227 |     2 | 2004AJ....128...16K | Koribalski et al. 2004
