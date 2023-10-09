@@ -1,5 +1,5 @@
 
-# Skeleton file 2 for Assignment 1 in BAN400. 
+# Skeleton file 2 for Assignment 1 in BAN400.
 # -------------------------------------------
 
 # More detailed steps to complete Problem 1.
@@ -36,9 +36,9 @@ substr(x = raw_file, start = ?, stop = ?)
 # The next step is then to find out *which* line starts with "--", and pick out
 # the first one. This can be done in a nice little pipe, where you have to fill
 # out the question marks and the missing function names:
-L <- 
-  (substr(x = raw_file, start = ?, stop = ?) == "?") %>% 
-  function_that_returns_the_index_of_all_TRUES %>% 
+L <-
+  (substr(x = raw_file, start = ?, stop = ?) == "?") %>%
+  function_that_returns_the_index_of_all_TRUES %>%
   function_that_picks_out_the_minimum_value
 
 # Save the variable descriptions (i.e. the information in lines 1:(L-2)) in a
@@ -63,9 +63,9 @@ cat(?, sep = "\n", file = "?")
 # element out (check that!). We just unlist it to get out the vector. Then we
 # apply the str_trim()-function (also in the stringr-package) to get rid of all
 # the empty space. Replace the question mark below:
-variable_names <- 
-  str_split(string = ?, pattern = "\\|") %>% 
-  unlist() %>% 
+variable_names <-
+  str_split(string = ?, pattern = "\\|") %>%
+  unlist() %>%
   str_trim()
 
 # Read the data. One way to do this is to rewrite the data to a new .csv-file
@@ -78,18 +78,18 @@ variable_names <-
 # replace all "|" with "," and remove all empty space. The gsub-function is
 # super for this kind of search-and-replace. Replace the question mark below.
 
-comma_separated_values <- 
-  ? %>% 
-  gsub("\\|", ",", .) %>% 
+comma_separated_values <-
+  ? %>%
+  gsub("\\|", ",", .) %>%
   gsub(" ", "", .)
 
 # We then just add the variable names (separated with commas) on top, and
 # cat()-the whole ting to a .csv-file in the same way as we did with the
 # variable descriptions above.
 
-comma_separated_values_with_names <- 
+comma_separated_values_with_names <-
   c(paste(variable_names, collapse = ","),
-    comma_separated_values)    
+    comma_separated_values)
 
 # Replace the question mark and come up with a file name
 cat(?, sep = "\n", file = "?")
@@ -102,5 +102,3 @@ galaxies <- read_csv("?")
 # You should now have a nice, clean data frame with galaxies and their
 # characteristics in memory. As of March 2022 it should contain 796
 # observations.
-
-

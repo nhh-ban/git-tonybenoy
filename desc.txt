@@ -1,0 +1,12 @@
+name      - the name of the galaxy;
+a_26      - linear diameter of the galaxy in kpc, determined at Holmberg's isophote (26.5 mag/square arcsec);
+m_b       - absolute magnitude of the galaxy in the B-band corrected for extinction;
+log_lk    - logarithm of the stellar mass in solar units;
+log_m26   - logarithm of the indicative (dynamic) mass within the Holmberg diameter; 
+log_mhi   - logarithm of the hydrogen mass in solar units;
+ti1       - tidal index $\Theta_1$;
+md        - Main Disturber's name;
+D         - distance to the galaxy in Mpc;
+delta_vlg - line-of-sight velocity of the galaxy (in km s$^{-1}$) relative to the velocity of MD;
+count     - number of members in the suite of MD, to which the galaxy belongs.
+ 
